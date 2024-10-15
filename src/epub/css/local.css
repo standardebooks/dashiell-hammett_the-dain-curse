@@ -55,5 +55,4 @@ section[epub|type~="dedication"]{
 
 #chapter-13 > blockquote:last-of-type{
 	font-style: italic;
-	max-width: 10em;
 }
