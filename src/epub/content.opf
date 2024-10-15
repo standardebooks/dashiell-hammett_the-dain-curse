@@ -38,14 +38,14 @@
 		<meta property="se:subject">Mystery</meta>
 		<meta id="collection" property="belongs-to-collection">Continental Op</meta>
 		<meta property="collection-type" refines="#collection">set</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A detective assigned to investigate a diamond theft finds himself entangled by a family curse.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A diamond glinting in the grass outside the Leggetts’ front door gives the first clue to a burglary, and sets our narrator on the trail of a shadowy mastermind, whose plans always seem one step ahead. But whether he’s having to deal with explosions, cults, car chases, or even the titular Dain family curse, our hardboiled private detective remains calm and collected while inching closer to the truth.&lt;/p&gt;
+			&lt;p&gt;The unnamed narrator of &lt;i&gt;The Dain Curse&lt;/i&gt; (known these days by the nickname of the &lt;a href="https://standardebooks.org/collections/continental-op"&gt;Continental Op&lt;/a&gt;) is a detective who found his genesis among the pages of &lt;i&gt;Black Mask&lt;/i&gt; magazine in 1923. This publication, from 1929, is a collection of four previously serialized interlinked short stories, and followed &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/dashiell-hammett/red-harvest"&gt;Red Harvest&lt;/a&gt;&lt;/i&gt; in a busy year for &lt;a href="https://standardebooks.org/ebooks/dashiell-hammett"&gt;Dashiell Hammett&lt;/a&gt;: he would also later write &lt;i&gt;The Maltese Falcon&lt;/i&gt; and introduce the world to Sam Spade.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20170127</dc:source>
 		<dc:source>https://archive.org/details/dashiellhammetto0000dash</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Dain_Curse</meta>
