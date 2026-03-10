@@ -2,6 +2,9 @@
 <se-lint-ignore>
 	<file path="local.css">
 		<ignore code="c-009">
+			<line>18</line>
+			<line>30</line>
+			<line>46</line>
 			<reason>Addition to S.E. base styles.</reason>
 		</ignore>
 	</file>
