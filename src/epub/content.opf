@@ -40,7 +40,7 @@
 		<meta property="schema:genre">Mystery</meta>
 		<meta id="collection" property="belongs-to-collection">Continental Op</meta>
 		<meta property="collection-type" refines="#collection">set</meta>
-		<dc:abstract>A detective assigned to investigate a diamond theft finds himself entangled by a family curse.</dc:abstract>
+		<meta property="schema:abstract">A detective assigned to investigate a diamond theft finds himself entangled by a family curse.</meta>
 		<dc:description>
 			&lt;p&gt;A diamond glinting in the grass outside the Leggetts’ front door gives the first clue to a burglary, and sets our narrator on the trail of a shadowy mastermind whose plans always seem one step ahead. But whether he’s having to deal with explosions, cults, car chases, or even the titular Dain family curse, our hard-boiled private detective remains calm and collected while inching closer to the truth.&lt;/p&gt;
 			&lt;p&gt;The unnamed narrator of &lt;i&gt;The Dain Curse&lt;/i&gt; (known these days by the nickname of the &lt;a href="https://standardebooks.org/collections/continental-op"&gt;Continental Op&lt;/a&gt;) is a detective who found his genesis among the pages of &lt;i&gt;Black Mask&lt;/i&gt; magazine in 1923. This publication, from 1929, is a collection of four previously serialized interlinked short stories, and followed &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/dashiell-hammett/red-harvest"&gt;Red Harvest&lt;/a&gt;&lt;/i&gt; in a busy year for &lt;a href="https://standardebooks.org/ebooks/dashiell-hammett"&gt;Dashiell Hammett&lt;/a&gt;.&lt;/p&gt;
